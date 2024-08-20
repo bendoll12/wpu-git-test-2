@@ -7,6 +7,10 @@
 </head>
 <body>
     <h1>hello word!</h1>
-    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Molestias facilis nesciunt, commodi odit maiores dolor quaerat impedit distinctio cum, voluptates fuga quasi. Aliquam esse nulla ullam quae non? Assumenda, dignissimos?</p>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur a porro eum! Consequuntur ducimus excepturi eum quidem reiciendis dolore delectus, est, veniam dignissimos qui, quo autem ad necessitatibus quisquam. Tempore.</p>
+    <ul>
+        <li>satu</li>
+        <li>dua</li>
+    </ul>
 </body>
 </html>
